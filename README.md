@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Renuka Bandaru
 
-<!--
-**Renuka-Bandaru/Renuka-Bandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Frontend Developer** passionate about building clean and modern web apps.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+-NextJS React, Tailwind CSS, JavaScript (ES6+)
+- Node.js, Express.js, SQLite
+- REST APIs, Axios, Redux Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with Me
+- [LinkedIn]  https://www.linkedin.com/in/renukabandaru777/
+- [Gmail] renuka.bandaru777@gmail.com
