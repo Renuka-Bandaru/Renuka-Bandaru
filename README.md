@@ -3,7 +3,7 @@
 🌟 **Frontend Developer** passionate about building clean and modern web apps.
 
 ## 🔧 Tech Stack
--NextJS React, Tailwind CSS, JavaScript (ES6+)
+- NextJS, React, Tailwind CSS, JavaScript (ES6+)
 - Node.js, Express.js, SQLite
 - REST APIs, Axios, Redux Toolkit
 
